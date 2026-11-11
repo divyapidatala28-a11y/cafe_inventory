@@ -1,0 +1,306 @@
+"C:\Program Files\Java\jdk-17.0.5\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\lib\idea_rt.jar=56449" -Dfile.encoding=UTF-8 -classpath C:\Users\TEMP\IdeaProjects\cafe_inventory\out\production\cafe_inventory Main
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: samosa
+Price: 10
+Quantity: 100
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: icecream
+Price: 20
+Quantity: 30
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: cake
+Price: 20
+Quantity: 60
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: bun
+Price: 20
+Quantity: 50
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: tea
+Price: 20
+Quantity: 60
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: biscuit
+Price: 40
+Quantity: 20
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1.samosa | Rs 10.0 |Quantity 100
+2.icecream | Rs 20.0 |Quantity 30
+3.cake | Rs 20.0 |Quantity 60
+4.bun | Rs 20.0 |Quantity 50
+5.tea | Rs 20.0 |Quantity 60
+6.biscuit | Rs 40.0 |Quantity 20
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value5800.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+966.6666666666666
+966
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 2
+Quantity to add:
+10
+product restocked successfully
+updated quantity:40
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 5
+Product number copied successfully
+Product after duplication
+1.
+samosa | Rs 10.0 |Quantity 100
+2.
+icecream | Rs 20.0 |Quantity 40
+3.
+cake | Rs 20.0 |Quantity 60
+4.
+bun | Rs 20.0 |Quantity 50
+5.
+tea | Rs 20.0 |Quantity 60
+6.
+biscuit | Rs 40.0 |Quantity 20
+7.
+tea | Rs 20.0 |Quantity 60
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 8
+Invalid product number
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 0
+Invalid product number
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 1
+Product number copied successfully
+Product after duplication
+1.
+samosa | Rs 10.0 |Quantity 100
+2.
+icecream | Rs 20.0 |Quantity 40
+3.
+cake | Rs 20.0 |Quantity 60
+4.
+bun | Rs 20.0 |Quantity 50
+5.
+tea | Rs 20.0 |Quantity 60
+6.
+biscuit | Rs 40.0 |Quantity 20
+7.
+tea | Rs 20.0 |Quantity 60
+8.
+samosa | Rs 10.0 |Quantity 100
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: burger
+Price: 100
+Quantity: 20
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: pizza
+Price: 100
+Quantity: 30
+ product added succesfully
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: hotdog
+Price: 300
+Quantity: 50
+You can't add the products
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 9
+Product array is full
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 11
+Invalid product number
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+1.samosa | Rs 10.0 |Quantity 100
+2.icecream | Rs 20.0 |Quantity 40
+3.cake | Rs 20.0 |Quantity 60
+4.bun | Rs 20.0 |Quantity 50
+5.tea | Rs 20.0 |Quantity 60
+6.biscuit | Rs 40.0 |Quantity 20
+7.tea | Rs 20.0 |Quantity 60
+8.samosa | Rs 10.0 |Quantity 100
+9.burger | Rs 100.0 |Quantity 20
+10.pizza | Rs 100.0 |Quantity 30
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 0
+Goodbye!
+Products created in total: 10
+
+Process finished with exit code 0
